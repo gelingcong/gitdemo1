@@ -8,5 +8,5 @@ glc 66666
 glc 66666
 glc 66666
 glc 66666
-glc 66666
 glc 66666	master test
+glc 66666	hot-fix test
